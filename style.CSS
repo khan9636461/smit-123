@@ -1,14 +1,25 @@
 h1{
-color: black;
+color: rgb(77, 27, 27);
 }
 h2{
-    color: blue;
+    color: rgb(32, 32, 179);
 }
 h3{
-    color: blueviolet;
+    color: #4c2371;
 }
 table, th, td {
     border: 1px solid black;
   }
-  body {background-color: #a9a9a9;}
+  body {background-color: hsl(0, 8%, 57%);}
+
+  /* Apply basic styles to the footer */
+footer {
+    background-color: #333; /* Background color for the footer */
+    color: #7d6565; /* Text color for the footer */
+    text-align: center; /* Center-align text in the footer */
+    padding: 20px; /* Add some padding to the footer */
+}
+
+
+
   
