@@ -24,6 +24,16 @@ element-selector {
     border: 2px dashed #b3937e; /* 2px width, dashed style, and orange color */
 }
 
+h1, h2, h3 {
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+
+  
+
 
 
 
