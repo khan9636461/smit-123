@@ -12,13 +12,18 @@ table, th, td {
   }
   body {background-color: hsl(0, 8%, 57%);}
 
-  /* Apply basic styles to the footer */
-footer {
-    background-color: #333; /* Background color for the footer */
-    color: #7d6565; /* Text color for the footer */
-    text-align: center; /* Center-align text in the footer */
-    padding: 20px; /* Add some padding to the footer */
+  /* Add a border to an element */
+element-selector {
+    border: 1px solid #7b4545; /* 1px width, solid style, and black color */
 }
+
+
+
+  /* Adding a border to a div with the class "box" */
+.box {
+    border: 2px dashed #b3937e; /* 2px width, dashed style, and orange color */
+}
+
 
 
 
