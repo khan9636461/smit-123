@@ -10,7 +10,7 @@ h3{
 table, th, td {
     border: 1px solid black;
   }
-  body {background-color: hsl(0, 8%, 57%);}
+  body {background-color: rgb(219, 219, 20)}
 
   /* Add a border to an element */
 element-selector {
